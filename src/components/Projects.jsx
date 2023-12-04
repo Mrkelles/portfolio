@@ -6,8 +6,8 @@ import PropTypes from 'prop-types';
 const ProjectCard = ({ img, title, desc, stack, code, link   }) => {
   return (
    
-      <article className="flex flex-wrap md:flex-nowrap shadow-lg mx-auto max-w-4xl px-10 md:py-4 group transform duration-500 hover:-translate-y-1 my-4 rounded-xl bg-black-gradient-2">
-      <img className="w-full md:w-72 rounded-md" src={img} alt="project image" />
+      <article className="flex flex-wrap md:flex-nowrap shadow-lg mx-auto max-w-4xl px-2 md:py-4 group transform duration-500 hover:-translate-y-1 my-4 rounded-xl bg-black-gradient-2">
+      <img className="w-full md:w-72 rounded-md mt-3 p-2" src={img} alt="project image" />
       <div className="">
         <div className="p-5 pb-2">
           <h1 className="text-2xl font-semibold text-dimWhite mt-4">{title}</h1>

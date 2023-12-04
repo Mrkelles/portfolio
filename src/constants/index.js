@@ -23,7 +23,7 @@ export const projects = [
     title:"Aetotech Digital",
     desc:"Developed a tailored e-learning platform specifically for Salesforce administrators. The website provides a comprehensive and structured learning path, empowering admins to enhance their skills and stay updated with the latest Salesforce technologies.",
     stack:[ "wordpress", "/", "Elementor" ],
-    link:"Aetotechdigital.com",
+    link:"https://aetotechdigital.com/",
     code:"none",
   },
   {
